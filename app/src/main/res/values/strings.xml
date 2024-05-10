@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Filmku</string>
+    <string name="forgot_password"><u>Forgot Password</u></string>
+    <string name="text_login">Login</string>
+    <string name="text_email">Email</string>
+    <string name="text_register">Register</string>
+    <string name="text_please_enter_your_first_name">Please enter your first name</string>
+    <string name="text_please_enter_your_last_name">Please enter your last name</string>
+    <string name="please_enter_your_email">Please enter your email</string>
+    <string name="please_enter_your_password">Please enter your password</string>
+    <string name="please_enter_your_confirm_password">Please enter your confirm password</string>
+    <string name="your_password_not_match">Your password not match</string>
+</resources>
